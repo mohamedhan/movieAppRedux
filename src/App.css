@@ -1,0 +1,128 @@
+/* /* .App {
+  text-align: center;
+  margin: 40px;
+}
+
+.form-modal{
+  display: flex;
+  flex-direction: column;
+
+}
+.form-modal input{
+  padding: 10px;
+  margin: 20px;
+}
+.film-item{
+  border: 1px solid black;
+  display: flex;
+
+}
+.item{
+  border: 1px solid black;
+  margin: 10px;
+  /* width:200px;
+  /* height: 300px; */
+/* } */
+.App{
+  margin: 20px 40px 20px 40px;
+}
+.formAdd{
+  display:flex;
+  flex-direction: column;
+ }
+ .formAdd input{
+  margin:20px;
+ padding:10px;
+ }
+ .NewFilm{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  height:300px;
+  /* border:1px solid black; */
+  margin:20px;
+  border:1px solid grey;
+ }
+
+ .NewFilm h3{
+  text-align: center;
+ }
+ .NewFilm span{
+  display:flex;
+  justify-content: center;
+  padding:20px 0px;
+  border-bottom: 1px solid grey;
+ }
+ .searchBar{
+  width: 1000px;
+  text-align: center;
+
+ }
+ .Films{
+ display:flex;
+ }
+ .AddButt{
+  margin-top: 150px;
+ }
+ .liste{
+  display:flex;
+ }
+ .star{
+   display: flex;
+   justify-content: center;
+   width: 200px;
+
+ }
+ .search-section{
+   display: flex;
+   justify-content: space-between;
+   width: 1200px;
+ }
+ .Search{
+  padding: 10px;
+ }
+  
+ 
+
+
+ .flip-card-inner{
+   display: flex;
+   flex-direction: column;
+ }
+ .movieApp{
+   display: flex;
+ }
+ .header{
+   display: flex;
+   justify-content: space-between;
+   margin: 20px   
+
+ }
+ .searchInput{
+   width: 900px;
+ }
+ .movieCard{
+   border: 1px solid black;
+   margin: 10px;
+ }
+.movieRating{
+  text-align: center;
+
+}
+.img{
+  width:200px;
+  height:200px;
+  padding:10px 0px;
+  border-bottom:1px solid grey;
+ }
+
+
+ .headCard{
+   display: flex;
+   justify-content: space-between;
+   align-items:center;
+   padding:0px 15px;
+ }
+ .headCard .fa-times{
+   color: red;
+ }
